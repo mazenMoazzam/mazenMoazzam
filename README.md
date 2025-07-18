@@ -31,6 +31,7 @@
 #### 🧪 Developer Tools & Platforms
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,postman,linux" alt="Dev Tools" />
+  <img src="https://img.shields.io/badge/Concourse_CI-%231A82FF?style=for-the-badge&logo=none&logoColor=white" alt="Concourse CI Badge" />
 </p>
 
 ---
@@ -61,3 +62,4 @@ Check out my portfolio and projects at:
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
+
