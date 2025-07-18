@@ -20,7 +20,7 @@
 
 #### 👨‍💻 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,go,c,cpp,java,js,bash,sql" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,go,c,cpp,cs,java,js,bash,sql" alt="Languages" />
 </p>
 
 #### 🧰 Frameworks & Libraries
