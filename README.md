@@ -35,6 +35,13 @@
 
 ---
 
+### 🌐 Personal Website
+
+Check out my portfolio and projects at:  
+👉 [mazenmoazzam.github.io](https://mazenmoazzam.github.io/)
+
+---
+
 ### 📈 GitHub Stats
 
 <p align="center">
