@@ -12,7 +12,6 @@
 - 🎓 Pursuing **B.S. in Software Engineering** at **Drexel University**
 - 🤖 Interested in **Machine Learning**, **Backend Engineering**, and **Systems Design**
 - 🌱 Constantly learning new tech and improving my system-level thinking
-- 💬 Ask me about: Python, Backend Dev, Kubernetes, Docker, or CI/CD pipelines
 
 ---
 
