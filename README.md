@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Mazen Moazzams</h1>
+<h1 align="center">Hey there 👋, I'm Mazen Moazzam</h1>
 <p align="center">
   🎓 Software Engineering Major @ Drexel University | 💻 SWE Intern @ Comcast<br/>
   Passionate about Machine Learning, Backend Development & Systems Design
