@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Mazen Moazzam</h1>
 <p align="center">
-  🎓 Software Engineering Major @ Drexel University | 💻 SWE Intern @ Comcast<br/>
+  🎓 Software Engineering Major @ Drexel University | 💻 SWE Intern @ Comcast | Incoming SWE @ JPMC <br/>
   Passionate about Machine Learning, Backend Development & Systems Design
 </p>
 
