@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working as a **Software Engineer Intern at JPMorgan Chase & Co.**
 - 🎓 Pursuing **B.S. in Software Engineering** at **Drexel University**
-- 🤖 Interested in **Machine Learning**, **Backend Engineering**, **Systems Design**, and **Distributed Systems*.
+- 🤖 Interested in **Machine Learning**, **Backend Engineering**, **Systems Design**, and **Distributed Systems**.
 - 🌱 Constantly learning new tech and improving my system-level thinking
 
 ---
