@@ -8,7 +8,7 @@
 
 ### 🧠 About Me
 
-- 🔭 I’m currently working as a **Software Engineer Intern at Comcast**
+- 🔭 I’m currently working as a **Software Engineer Intern at JPMorgan Chase & Co.**
 - 🎓 Pursuing **B.S. in Software Engineering** at **Drexel University**
 - 🤖 Interested in **Machine Learning**, **Backend Engineering**, and **Systems Design**
 - 🌱 Constantly learning new tech and improving my system-level thinking
