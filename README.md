@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Mazen Moazzam</h1>
 <p align="center">
   🎓 Software Engineering Major @ Drexel University | 💻 Prev. SWE @ Comcast, Thryv | SWE @ JPMC, Trifecta LLC <br/>
-  Passionate about Machine Learning, Distributed Systems, Systems Design, and AI Infrastructure
+  Passionate about Machine Learning, Distributed Systems, Systems Design, and AI Agents & Infrastructure
 </p>
 
 ---
